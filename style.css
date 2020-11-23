@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-item img
+{
+    width: 100%;
+    height: 93vh;
+    position: relative;;
+}
+.one
+{
+   size: 500px;
+}
+.sec
+{
+    background-size: cover;
+    position: center;
+}
+.five
+{
+    
+    height: 200px;
+  margin-top: 10px;
+    padding-top: 50px;
+   margin-left: 650px;
+}
+.fiveone
+{
+    background-color:#ff00ff ;
+    position: absolute;
+     
+}
+.fivetwo
+{
+    position: relative;
+
+    
+}
+.three
+{
+    
+    background-color:white ;
+    height: 1300px;
+
+}
+.threeone
+{
+    
+    height: 450px;
+    margin-left: 130px;
+    
+   
+    
+}
+.threeone1
+{
+    margin-left: 360px;
+    padding-top: 30px;
+}
+.threetwo
+{   
+    margin-top: 250px;
+    margin-left: 160px;
+    max-width: 100%;
+}
+.carousel-caption
+{
+    margin-bottom: 100px;
+}
+
+
+.four
+{
+    
+    width: 1200px;
+    margin-left: 70px;
+    
+}
+.text-down
+{
+    color: lavender;
+}
+
+.sec
+{
+    background-color: white;
+}
+.secone
+{
+    background-size: cover;
+    margin-left: 250px;
+}
+
+.fourone
+{
+    
+}
